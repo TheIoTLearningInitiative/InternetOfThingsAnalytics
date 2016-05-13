@@ -11,4 +11,4 @@ Introduction
 
 ## Theano
 
-- [](https://github.com/Newmu/Theano-Tutorials)
+- [Theano Github](https://github.com/Newmu/Theano-Tutorials)
