@@ -3,5 +3,5 @@ Introduction
 
 ## Deep Learning
 
-- [](https://machinelearningmastery.com/deep-learning-with-python/)
+- [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 
