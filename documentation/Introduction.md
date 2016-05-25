@@ -5,6 +5,10 @@ Introduction
 
 - [Predixion](https://www.predixionsoftware.com/news-and-press/predixion-software-announces-riot-the-first-iot-analytics-solution-that-operates-entirely-at-the-edge-of-the-network)
 
+## AI
+
+- [](https://www.youtube.com/watch?v=TnUYcTuZJpM)
+
 ## Deep Learning
 
 - [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
