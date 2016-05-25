@@ -7,6 +7,9 @@ Introduction
 
 ## AI
 
+### Google Deep Mind
+
+- [Google Deep Mind](https://deepmind.com/)
 - [Google's Deep Mind Explained! - Self Learning A.I.](https://www.youtube.com/watch?v=TnUYcTuZJpM)
 
 ## Deep Learning
