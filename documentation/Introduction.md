@@ -1,6 +1,8 @@
 Introduction
 ==
 
+Discusses analytics systems, including edge analytics, cloud analytics, and more
+
 ## Predixion
 
 - [Predixion](https://www.predixionsoftware.com/news-and-press/predixion-software-announces-riot-the-first-iot-analytics-solution-that-operates-entirely-at-the-edge-of-the-network)
