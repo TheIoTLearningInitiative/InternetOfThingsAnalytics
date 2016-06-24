@@ -4,6 +4,7 @@ Introduction
 Discusses analytics systems, including edge analytics, cloud analytics, and more
 
 - [Magic Quadrant for Advanced Analytics Platforms](https://www.gartner.com/doc/reprints?id=1-2YEBCRG&ct=160210&st=sb&submissionGuid=700c4e6c-2fdc-425f-bbbc-85de48fd5d53)
+- [](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.c3mw43bdx)
 
 ## Predixion
 
