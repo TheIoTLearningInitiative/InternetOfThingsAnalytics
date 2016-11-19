@@ -1,5 +1,4 @@
-Introduction
-==
+# Introduction
 
 Discusses analytics systems, including edge analytics, cloud analytics, and more
 
