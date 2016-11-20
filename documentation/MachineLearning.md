@@ -9,6 +9,8 @@
 - IBM
 - Microsoft
 - OpenCV (Open Source Computer Vision)
+- Salesforce
+- Spark
 - 
 
 ## Use Cases
