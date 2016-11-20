@@ -3,6 +3,9 @@
 ## Key Players
 
 - Amazon AWS
+- Cafe
+- Clarifai
+- 
 
 ## Use Cases
 
