@@ -6,3 +6,5 @@
 - Financial Trading
 - Fraud Detection
 - Healthcare/Computer Assisted Diagnosis
+- Image Recognition/Classification and Tagging
+- 
