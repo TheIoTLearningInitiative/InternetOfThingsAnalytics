@@ -9,4 +9,6 @@
 - Java
 - Tez
 - Oozie
-- 
+- Flume
+- Hive
+- HDFS
