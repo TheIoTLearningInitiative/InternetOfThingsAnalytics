@@ -1,3 +1,3 @@
 # scikit-learn
 
-> Machine Learning in Python. Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license [Homepage](http://scikit-learn.org/)
+> Machine Learning in Python. Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable [Homepage](http://scikit-learn.org/)
