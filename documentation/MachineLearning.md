@@ -5,7 +5,10 @@
 - Amazon AWS
 - Cafe
 - Clarifai
-- 
+- Google
+- IBM
+- Microsoft
+- Open CV
 
 ## Use Cases
 
