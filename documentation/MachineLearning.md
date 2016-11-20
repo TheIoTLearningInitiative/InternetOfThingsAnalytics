@@ -8,7 +8,8 @@
 - Google
 - IBM
 - Microsoft
-- Open CV
+- OpenCV (Open Source Computer Vision)
+- 
 
 ## Use Cases
 
