@@ -12,3 +12,7 @@
 - Flume
 - Hive
 - HDFS
+
+## Books
+
+- [](http://www.kdnuggets.com/2016/08/simplilearn-5-free-ebooks-data-science-big-data.html)
