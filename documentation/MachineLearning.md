@@ -40,7 +40,7 @@
 ## Books
 
 - [Introduction to Machine Learning](http://ai.stanford.edu/~nilsson/mlbook.html)
-- []()
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 - []()
 - []()
 - []()
