@@ -43,4 +43,4 @@
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 - [Deep Learning](http://www.deeplearningbook.org/)
-- []()
+- [](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
