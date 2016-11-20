@@ -2,5 +2,6 @@
 
 - Automated Agents
 - Data Security
-- Emotional Behavioral Analysis
+- Emotion/Behavioral Analysis
+- Financial Trading
 - 
