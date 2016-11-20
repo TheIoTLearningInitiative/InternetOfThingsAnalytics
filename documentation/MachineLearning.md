@@ -36,3 +36,11 @@
 - Smart Cars
 - Text Classification and Mining
 - Voice Recognition
+
+## Books
+
+- [Introduction to Machine Learning](http://ai.stanford.edu/~nilsson/mlbook.html)
+- []()
+- []()
+- []()
+- []()
