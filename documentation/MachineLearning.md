@@ -12,5 +12,7 @@
 - Online Search
 - Personalization
 - Predictive Planning
-- Preventive Maintenance/Codition Reporting
+- Preventive Maintenance/Condition Reporting
+- Rcommendation
+- Risk Analytics
 - 
