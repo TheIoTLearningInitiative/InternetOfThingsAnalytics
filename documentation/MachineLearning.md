@@ -10,5 +10,5 @@
 - Localization and Mapping
 - Natural Language Processing
 - Online Search
-- Persinalization
-- 
+- Personalization
+- Predictive Planning
