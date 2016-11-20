@@ -11,7 +11,7 @@
 - OpenCV (Open Source Computer Vision)
 - Salesforce
 - Spark
-- 
+- Standford Natural Language Processing
 
 ## Use Cases
 
