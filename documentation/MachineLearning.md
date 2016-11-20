@@ -19,4 +19,5 @@
 - Sensors Data Analysis
 - Smart Assistans
 - Smart Cars
+- Text Classification and Mining
 - 
