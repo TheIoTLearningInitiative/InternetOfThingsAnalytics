@@ -8,4 +8,5 @@
 - Healthcare/Computer Assisted Diagnosis
 - Image Recognition/Classification and Tagging
 - Localization and Mapping
+- Natural Language Processing
 - 
