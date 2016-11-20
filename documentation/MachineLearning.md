@@ -16,4 +16,5 @@
 - Rcommendation
 - Risk Analytics
 - Sales and Marketing Targeting
+- Sensors Data Analysis
 - 
