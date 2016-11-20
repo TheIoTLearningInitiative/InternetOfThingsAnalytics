@@ -7,4 +7,6 @@
 - Spark
 - Pig
 - Java
+- Tez
+- Oozie
 - 
