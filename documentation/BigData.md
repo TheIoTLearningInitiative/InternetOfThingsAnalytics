@@ -1,5 +1,9 @@
 # Big Data
 
+- [](http://www.kdnuggets.com/)
+
+## Tools
+
 - MapReduce
 - Storm
 - Apex
