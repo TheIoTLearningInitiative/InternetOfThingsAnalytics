@@ -1,6 +1,7 @@
 # Big Data
 
 - [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
+- [Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science in 2016](http://www.kdnuggets.com/2016/10/top-linkedin-groups-analytics-big-data-mining-data-science.html)
 
 ## Tools
 
