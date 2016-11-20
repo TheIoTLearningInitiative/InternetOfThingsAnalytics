@@ -12,4 +12,5 @@
 - Online Search
 - Personalization
 - Predictive Planning
-- Preventive Maintenance/ 
+- Preventive Maintenance/Codition Reporting
+- 
