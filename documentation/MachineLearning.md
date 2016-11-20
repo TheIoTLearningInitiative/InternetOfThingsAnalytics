@@ -15,4 +15,5 @@
 - Preventive Maintenance/Condition Reporting
 - Rcommendation
 - Risk Analytics
+- Sales and Marketing Targeting
 - 
