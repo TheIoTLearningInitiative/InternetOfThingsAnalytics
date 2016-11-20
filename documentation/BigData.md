@@ -1,2 +1,4 @@
 # Big Data
 
+- MapReduce
+- 
